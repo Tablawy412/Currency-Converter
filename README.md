@@ -31,9 +31,3 @@ Experience the live application here: [Launch Live Demo](https://tablawy412.gith
 ├── index.html
 ├── style.css
 └── main.js
-
-
-
-
-
-
