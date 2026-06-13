@@ -21,10 +21,19 @@ A sleek, modern, and fully responsive web application that allows users to conve
 
 ---
 
+## Live Deployment
+Experience the live application here: [Launch Live Demo](https://tablawy412.github.io/Currency-Converter/)
+
+---
 ## Project Structure
 
 ```text
 ├── index.html
 ├── style.css
 └── main.js
+
+
+
+
+
 
